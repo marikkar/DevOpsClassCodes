@@ -18,6 +18,7 @@ import com.vaadin.v7.data.util.BeanItemContainer;
 import com.vaadin.v7.ui.Grid;
 import com.vaadin.v7.ui.TextField;
 
+
 /* User Interface written in Java.
  *
  * Define the user interface shown on the Vaadin generated web page by extending the UI class.
